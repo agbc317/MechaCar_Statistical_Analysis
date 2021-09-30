@@ -43,4 +43,11 @@ The T-Test against the mean of Lot 2 shows that they are not statistically diffe
 
 The T-Test against the mean of Lot 3 shows that they are statistically different.
 
+## Study Design: MechaCar vs Competition
 
+If I were to do a study on the performance of MechaCar compared to the competition, I would want to look at what I think most consumers are looking for in a car which is safety. I would focus on driver death rates for the metrics.
+- The null hypothesis would be "There is no statistical different in the driver death rates between MechaCar and the competition."
+- The alternative hypothesis would be "There is a statistical difference in the driver death rates between MechaCar and the competition."
+
+I would use a two sample t-test because I would be testing two samples against each other.
+I would need the driver death rates for the MechaCar and any other competitors that I wanted to test against.
